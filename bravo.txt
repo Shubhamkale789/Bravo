@@ -1,0 +1,11 @@
+Hello There!
+I'm Shubham Vishnu Kale
+Trying out my first ever mega project.
+This is the first attempt for running the first ever CICD pipeline.
+Trying out the best to do everything diffrent than ever.
+See you again on next project!
+
+Thanks and Regards
+Shubham Kale
+DevOps Engineer
+Cloudmoyo India Pvt. Ltd
